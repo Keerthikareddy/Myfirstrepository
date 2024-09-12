@@ -1,2 +1,2 @@
 # Myfirstrepository
-This is my first program
+This is my first program to start
